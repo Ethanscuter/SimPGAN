@@ -1,4 +1,4 @@
-Note: this code haven't been rewrite so that everyone one can use freely. You can use this code, but you should change the path of model files and data files in your own environment before you running the code. However, feel free to let me konw if you have any problem.
+Note: this code haven't been rewrite so that everyone one can use freely. You can use this code, but you should change the path of model files and data files in your own environment before running the code. However, feel free to let me konw if you have any problem.
 
 This repository contains code for the KSEM 2018 paper [
 Cross-dataset Person Re-Identification Using Similarity Preserved Generative Adversarial Networks](https://arxiv.org/abs/1806.04533).
