@@ -11,7 +11,7 @@ Cross-dataset Person Re-Identification Using Similarity Preserved Generative Adv
 
 python main.py
 
-Note: you can change the hyperparameters in the main.py.
+Note: There are many pre-defined in hyperparameters in the main.py,and you can choose when run the code.
 
 ## How to visualize
 
