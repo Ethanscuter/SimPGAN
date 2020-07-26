@@ -11,11 +11,11 @@ Cross-dataset Person Re-Identification Using Similarity Preserved Generative Adv
 
 python main.py
 
-Note: There are many pre-defined hyperparameters in the main.py,and you can choose when run the code.
+Note: There are many pre-defined hyperparameters in the main.py, and you can choose when run the code.
 
 ## How to visualize
 
-There is a file name show.html in the sample directory. Open the show.html in your browser after you run python main.py. It will auto plot the intermediate images while training.
+There is a file named show.html in the sample directory. Open the show.html in your browser after you run python main.py. It will auto-plot the intermediate images while training.
 
 
 
